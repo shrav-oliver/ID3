@@ -1,0 +1,14 @@
+Math,Statistics,Science,English,class
+A,B,A-,A,No
+A+,B,A-,A+,No
+A,B,A-,A,Yes
+B,B+,A-,A,Yes
+A+,A,B+,A,Yes
+A+,B,A-,A,No
+A+,A,A,A,Yes
+A+,B+,A-,A+,Yes
+A+,B,A,A,Yes
+A+,B,A-,A,Yes
+A+,B+,A-,A+,Yes
+A+,B,B+,A,Yes
+A+,B,A-,A+,No
